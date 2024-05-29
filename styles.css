@@ -207,6 +207,7 @@ small span {
   }
   h1{
     font-size: 30px;
+     margin-bottom: -10px;
 
   }
   p{
@@ -216,6 +217,7 @@ small span {
   }
   h4{
     padding:28px;
+    margin-bottom: 11px;
   }
   small{
     display: block;
